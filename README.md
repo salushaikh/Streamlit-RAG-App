@@ -14,11 +14,8 @@
 
 3. **Set Up Pinecone**:
    - Sign up for a Pinecone account at [Pinecone.io](https://www.pinecone.io/).
-   - Create a new index in Pinecone and obtain your API key and environment region.
-   - Update the `api-key` parameter in the `app.py` file with your Pinecone API key:
-     ```plaintext
-     api-key=<your_api_key>
-     ```
+   - Create a new index in Pinecone and obtain your API key and host url.
+   - Update the `api-key` & `host` parameters in the `app.py` file with your Pinecone API key & host url:
 
 4. **Run the Application**:
    Launch the Streamlit application by running:
