@@ -3,9 +3,8 @@
 
 1. **Clone the Repository**:
    ```bash
-   git clone [<repository_url>](https://github.com/salushaikh/Streamlit-RAG-App.git)
-   cd [<repository_folder>](https://github.com/salushaikh/Streamlit-RAG-App.git)
-   ```
+   git clone https://github.com/salushaikh/Streamlit-RAG-App.git
+   cd Streamlit-RAG-App
 
 2. **Install Required Libraries**:
    Ensure you have Python 3.8+ installed. Install the required libraries by running:
